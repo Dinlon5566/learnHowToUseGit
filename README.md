@@ -1,2 +1,0 @@
-# learnHowToUseGit
- like it name
